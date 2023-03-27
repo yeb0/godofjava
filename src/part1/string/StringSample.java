@@ -1,4 +1,4 @@
-package string;
+package part1.string;
 
 public class StringSample {
     public static void main(String[] args) throws Exception {

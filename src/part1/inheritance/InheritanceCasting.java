@@ -1,4 +1,4 @@
-package Inheritance;
+package part1.inheritance;
 
 public class InheritanceCasting {
     public static void main(String[] args) {

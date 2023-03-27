@@ -1,4 +1,4 @@
-package ch01;
+package part1.ch01;
 
 public class PrimtiveTypes {
     public static void main(String[] args) {

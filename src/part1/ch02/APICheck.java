@@ -1,6 +1,5 @@
-package ch02;
+package part1.ch02;
 
-import java.math.BigDecimal;
 import java.util.Objects;
 
 public class APICheck {
